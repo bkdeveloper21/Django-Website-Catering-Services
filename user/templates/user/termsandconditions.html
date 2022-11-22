@@ -1,0 +1,95 @@
+{% load static %}
+<html>
+
+<head>
+
+
+    
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+        <!--<h1 style="font-family:'Apple Chancery, cursive">Terms & Conditions</h1>-->
+        {% include 'user/header.html' %}
+    
+    </head>
+</head>
+
+<body class="bodyaboutus">
+    
+
+
+    <!--new add here-->
+    <section class="main-content" id="aboutus1"><br>
+        <!--<h1 align="center" style = "font-size: 50px">ABOUT US</h1>-->
+        <div class="header_terms_and_conditon"><br>
+            <p  align="center" style=font-size:32px>Terms & Conditions</p><br>
+       
+            
+            </div>
+        
+        <div class="containeraboutus ">
+            <div allign="center">
+                <img src="/static/images/logo.jpg" height="200vw">
+                <h2>JASWIK CATERERS</h2>
+                <h4>Since 1942</h4>
+            </div>
+            <div>
+                <p  ><i class="bi bi-check-all">Once Booking done, It cannot be cancelled.</i>
+                    <br><br>
+                    <i class="bi bi-check-all">30% of the total value to be given as booking amount, 60% amount of the total value to be paid seven days prior to the function.</i>
+                    <br><br>
+                    <i class="bi bi-check-all">Kitchen shed, light, water arrangement in the kitchen is necessary.</i>
+                    <br><br>
+                    <i class="bi bi-check-all">Persons if increased as per confirm shall be charged as per the fixed rate.</i>
+                    
+                    <br><br>
+                    <i class=   "bi bi-check-all">Transportation shall be depend on location of party.</i>
+               
+                    <br><br>
+                    <br>
+                    
+        
+        
+        
+                </p>
+            </div>
+        </div>
+            
+    </section>
+
+      
+      
+      
+      
+      
+      
+      
+     
+    
+
+
+
+   
+    <!--new add end here-->
+
+
+
+
+
+
+    <script type="text/javascript">
+        (function() {
+          var blinks = document.getElementsByTagName('blink');
+          var visibility = 'hidden';
+          window.setInterval(function() {
+            for (var i = blinks.length - 1; i >= 0; i--) {
+              blinks[i].style.visibility = visibility;
+            }
+            visibility = (visibility === 'visible') ? 'hidden' : 'visible';
+          }, 700);
+        })();
+      </script>
+      
+
+</body>
+{% include 'user/footer.html' %}
+</html>
