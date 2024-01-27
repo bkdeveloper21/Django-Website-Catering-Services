@@ -16,3 +16,5 @@ Home Page
 ![image](https://github.com/bkdeveloper21/Django-Website-Catering-Services/assets/100483400/44944cd4-669e-463e-8856-6746beeba8f4)
 ![image](https://github.com/bkdeveloper21/Django-Website-Catering-Services/assets/100483400/07681d4f-0dc5-48f4-a378-c3e1bdf65ac8)
 ![image](https://github.com/bkdeveloper21/Django-Website-Catering-Services/assets/100483400/acb456bd-3abd-4646-85c9-a1f19de420bf)
+![image](https://github.com/bkdeveloper21/Django-Website-Catering-Services/assets/100483400/a3205d3f-63ca-43a6-863e-96f58ab3b86f)
+![image](https://github.com/bkdeveloper21/Django-Website-Catering-Services/assets/100483400/88f3d76e-02c8-4324-a313-dfad584c6c58)
